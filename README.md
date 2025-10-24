@@ -2,6 +2,9 @@
 
 A decentralized, real-time collaborative pixel canvas powered by [Somnia Data Streams](https://datastreams.somnia.network/). Inspired by Reddit's r/place, this project demonstrates on-chain data streaming with instant real-time updates.
 
+<img width="720" height="539" alt="image" src="https://github.com/user-attachments/assets/d1d4290f-4153-49e4-9578-2a65d038ddad" />
+
+
 ## 🌟 Features
 
 - **🔗 On-Chain Persistence**: Every pixel placement is stored permanently on the Somnia blockchain
